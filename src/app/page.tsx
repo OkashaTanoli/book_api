@@ -16,7 +16,7 @@ export default function Home() {
                             /api-clients ------ (POST request, create clients, and name and email as body)
                         </li>
                         <li>
-                            /books ------ (GET request, get all books)
+                            /books ------ (GET request, get all books, type and limit as query params &quot;Optional&quot;)
                         </li>
                         <li>
                             /books/:bookId ------ (GET request, get single books, id as params)
